@@ -4,7 +4,7 @@ XGBoost is short for Extreme **Gradient Boost** Unlike Gradient Boost, XGBoost m
 Suppose we wanted to construct a model to predict the price of a house given its square footage.
 
 <p align="center">
-    <img src="/Users/huangbowei/Desktop/coding/Python/House Prices/PNG/01.png" width="50%" height="50%">
+    <img src="/PNG/01.png" width="50%" height="50%">
 
 
 ##  XGBoost for Regression
