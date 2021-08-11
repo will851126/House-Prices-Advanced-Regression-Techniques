@@ -1,6 +1,6 @@
 #  House Prices - Advanced Regression Techniques
 
-Kaggle Competitions: [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+Kaggle Competitions: [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Competition Description
 
@@ -11,7 +11,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 ## data 
 
-data: [data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+data: [Data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 *  Data descriptions
     
